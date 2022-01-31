@@ -27,6 +27,8 @@ This examples shows how to use Docker with Next.js based on the [deployment docu
 
 You can view your images created with `docker images`.
 
+Note: For local development maybe use ```docker-compose``` and volume mount the application code to enable hot reloading.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
